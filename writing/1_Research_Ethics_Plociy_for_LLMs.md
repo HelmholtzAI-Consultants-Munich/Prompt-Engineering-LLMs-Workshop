@@ -4,7 +4,10 @@ Write a prompt to help you draft a policy section that outlines ethical guidelin
 
 - Evaluate the quality of your output in terms of relevance, format, length, etc.
 
-### Hints:
-- Specify output constraints to the LLM, e.g., 150-250 words or 3-5 sentences.
-- Consider relevant laws like GDPR and ethical standards for AI usage.
-- The fact check list pattern can be helpful here
+
+<details>
+  <summary>Hints</summary>
+    - Specify output constraints to the LLM, e.g., 150-250 words or 3-5 sentences.
+    - Consider relevant laws like GDPR and ethical standards for AI usage.
+    - The fact check list pattern can be helpful here
+</details>
