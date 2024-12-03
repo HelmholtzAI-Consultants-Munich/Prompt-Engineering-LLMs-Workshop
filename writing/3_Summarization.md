@@ -2,12 +2,12 @@
 
 The following text is a brief article about the Covid-19 pandemic and its implications for different demographic groups. Rewrite the text to make it more concise.
 
-### Hints
-- Use the fact check list pattern to help you verify the accuracy of the summary
-- You can try summarizing text for specific people (e.g., your sister who is a nurse, your uncle who has 2 kids and sells flowers for a living, your friends who were planning to get married…)
-- Experiment with various summarization formats, e.g., bullet points, reducing the text to a specific word count (e.g., 50 words), a single concise sentence, etc.
-
-
+<details>
+  <summary>Hints</summary>
+        - Use the fact check list pattern to help you verify the accuracy of the summary
+        - You can try summarizing text for specific people (e.g., your sister who is a nurse, your uncle who has 2 kids and sells flowers for a living, your friends who were planning to get married…)
+        - Experiment with various summarization formats, e.g., bullet points, reducing the text to a specific word count (e.g., 50 words), a single concise sentence, etc.
+</details>
 ### Text
 
 ```

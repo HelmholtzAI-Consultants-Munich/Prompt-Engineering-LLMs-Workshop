@@ -4,9 +4,11 @@ The following text is a deliberately poorly written mini article. Use ChatGPT to
 
 Bonus: write a tweet about it!
 
-### Hints
-- Don't try to correct everything at once.
-- Play with the tone (formal, casual, "commercial")
+<details>
+  <summary>Hints</summary>
+    - Don't try to correct everything at once.
+    - Play with the tone (formal, casual, "commercial")
+</details>
 
 ### Text
 
