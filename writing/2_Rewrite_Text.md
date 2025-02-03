@@ -4,9 +4,6 @@ The following text is a deliberately poorly written mini article. Use Blablador 
 
 Bonus: write a tweet about it!
 
-### Hints
-- Don't try to correct everything at once.
-- Play with the tone (formal, casual, "commercial")
 
 ### Text
 
