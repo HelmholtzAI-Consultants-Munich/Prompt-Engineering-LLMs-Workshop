@@ -2,6 +2,7 @@
 
 You can find Some useful information for the course here:
 - [Miro Borad for writing](https://miro.com/app/board/uXjVLknR67M=/?share_link_id=129093069304)
+- [Introductory slides](https://docs.google.com/presentation/d/1ix4lcRKwdmQLMflpCG-yqbcfIMTPilecxYZfZakeQrs/edit?usp=sharing)
 
 ## Prerequisites
 For the practical session, make sure you do the following:
