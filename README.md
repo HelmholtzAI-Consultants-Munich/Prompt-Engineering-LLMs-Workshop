@@ -2,7 +2,7 @@
 
 You can find Some useful information for the course here:
 - [Miro Borad for writing](https://miro.com/app/board/uXjVLknR67M=/?share_link_id=129093069304)
-- [Miro Borad for Coding]([https://miro.com/app/board/uXjVLknR67M=/?share_link_id=129093069304](https://miro.com/app/board/uXjVLkNurWU=/?share_link_id=321566633529)
+- [Miro Borad for Coding](https://miro.com/app/board/uXjVLkNurWU=/?share_link_id=321566633529)
 - [Introductory slides - Writing](https://docs.google.com/presentation/d/1ix4lcRKwdmQLMflpCG-yqbcfIMTPilecxYZfZakeQrs/edit?usp=sharing)
 - [Introductory slides - Coding](https://docs.google.com/presentation/d/1KMwdM3fA88Igq1_Rvfm3ZkGgW9QZc51Nj3hXNzdSChU/edit?usp=sharing)
 - [Blablador Slides](https://go.fzj.de/2025-02-talk-helmholtz-munich)
