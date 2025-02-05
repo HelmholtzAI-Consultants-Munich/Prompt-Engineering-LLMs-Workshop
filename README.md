@@ -6,6 +6,7 @@ You can find Some useful information for the course here:
 - [Introductory slides - Writing](https://docs.google.com/presentation/d/1ix4lcRKwdmQLMflpCG-yqbcfIMTPilecxYZfZakeQrs/edit?usp=sharing)
 - [Introductory slides - Coding](https://docs.google.com/presentation/d/1KMwdM3fA88Igq1_Rvfm3ZkGgW9QZc51Nj3hXNzdSChU/edit?usp=sharing)
 - [Blablador Slides](https://go.fzj.de/2025-02-talk-helmholtz-munich)
+- [Slides LLMs in 2025](https://strube1.pages.jsc.fz-juelich.de/2025-01-talk-hai-retreat/#/title-slide)
 
 ## Prerequisites
 For the practical session, make sure you do the following:
