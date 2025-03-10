@@ -1,28 +1,19 @@
 # Welcome to Effective Use of Large Language Models and Prompt Engineering!
 
-You can find Some useful information for the course here:
-- [Intro Slides](https://docs.google.com/presentation/d/1q1R28V132U1WGFaGnYeR9Myzr3G3TCIjEo87wMaAQ-o/edit?usp=sharing)
-- [Blablador Slides](https://strube1.pages.jsc.fz-juelich.de/2024-09-course-helmholtz-summer-school/#/title-slide)
-- [Miro Borad](https://miro.com/app/board/uXjVLeDn4Bc=/?share_link_id=47616148871)
-
-## Prerequisites
-For the practical session, make sure you do the following:
-- Install [vscode](https://code.visualstudio.com/)
-- Install `continue.dev` extension on vscode
-- Access to Helmholtz codebase login (To make sure you can access [Blablador](https://helmholtz-blablador.fz-juelich.de/))
-
-## Indicative Schedule
-
-| Time           | Session                               | Duration |
-|----------------|---------------------------------------|----------|
-| 13:30 - 14:20  | Introduction and Prompt engineering tips | 50 min   |
-| 14:20 - 15:05  | Introduction to Blablador             | 45 min   |
-| 15:05 - 15:15  | Break                                 | 10 min   |
-| 15:15 - 16:00  | Practical session: Writing            | 45 min   |
-| 16:00 - 17:00  | Practical session: Coding             | 1 h      |
-| 17:00 - 17:10  | Break                                 | 10 min   |
-| 17:10 - 17:30  | Guidelines and conclusions            | 20 min   |
+## All workshops
+| Date                  | Target                                    | Content            | Branch |
+|-----------------------|------------------------------------------|--------------------|--------|
+| March 2025           | PhD Students in HITEC                    | Writing and coding | TBD    |
+| February 2025        | PhD Students and Postdocs at Helmholtz Munich | Writing and coding | [Branch](https://github.com/HelmholtzAI-Consultants-Munich/Prompt-Engineering-LLMs-Workshop/tree/hmgu-wrokshop-02-2025) |
+| October 2024         | PhD Students and Postdocs at DZNE retreat | Writing and coding | [Branch](https://github.com/HelmholtzAI-Consultants-Munich/Prompt-Engineering-LLMs-Workshop/tree/retreat-DZNE) |
+| October and December 2024 | PhD Coordinators                     | Writing            | [Branch](https://github.com/HelmholtzAI-Consultants-Munich/Prompt-Engineering-LLMs-Workshop/tree/Chat-GPT-phd-coordinators) |
+| September 2024       | Helmholtz AI summer school               | Writing and coding | [Branch](https://github.com/HelmholtzAI-Consultants-Munich/Prompt-Engineering-LLMs-Workshop/tree/helmholtz-ai-ss-2024) |
 
 
-## Survey
-Please fill out this [survey](https://forms.gle/WwAUBbFVu27umBqm9) to help us improve in the future!
+## Interested in having a workshop in your institute?
+- For a workshop for scientists, contact [Karol Szustakowski](karol.szustakowski@helmholtz-munich.de) or [Marie Piraud](marie.piraud@helmholtz-munich.de) or submit an exploration voucher [here](https://voucher-system.helmholtz.ai/). 
+- For a workshop for people working in administration, our colleagues at HIDA propose several [courses](https://www.helmholtz-hida.de/course-catalog/en/?search%5Bfilter%5D%5B0%5D=tags%3AGenerative+AI).
+
+## Useful links
+- [Blablador](https://helmholtz-blablador.fz-juelich.de/)
+- [Github education](https://education.github.com/discount_requests/application) (for Copilot)
