@@ -3,7 +3,7 @@
 ## All workshops
 | Date                  | Target                                    | Content            | Branch |
 |-----------------------|------------------------------------------|--------------------|--------|
-| March 2025           | PhD Students in HITEC                    | Writing and coding | TBD    |
+| March 2025           | PhD Students in HITEC                    | Writing and coding | [Branch](https://github.com/HelmholtzAI-Consultants-Munich/Prompt-Engineering-LLMs-Workshop/tree/hitec-workshop-03-25)    |
 | February 2025        | PhD Students and Postdocs at Helmholtz Munich | Writing and coding | [Branch](https://github.com/HelmholtzAI-Consultants-Munich/Prompt-Engineering-LLMs-Workshop/tree/hmgu-wrokshop-02-2025) |
 | October 2024         | PhD Students and Postdocs at DZNE retreat | Writing and coding | [Branch](https://github.com/HelmholtzAI-Consultants-Munich/Prompt-Engineering-LLMs-Workshop/tree/retreat-DZNE) |
 | October and December 2024 | PhD Coordinators                     | Writing            | [Branch](https://github.com/HelmholtzAI-Consultants-Munich/Prompt-Engineering-LLMs-Workshop/tree/Chat-GPT-phd-coordinators) |
