@@ -1,8 +1,8 @@
 # Welcome to the LLM workshop!
 
 You can find Some useful information for the course here:
-- [Miro board](TODO)
-- [Introductory slides](TODO)
+- [Miro board](https://miro.com/app/board/uXjVINXFGTk=/)
+- [Introductory slides](https://docs.google.com/presentation/d/1ANKdB7gMcyBa6_mNEIAjNgFSEyRYn7lGQ9Gu6yU96WA/edit?usp=sharing)
 - [Blablador Slides](TODO)
 
 ## Prerequisites
