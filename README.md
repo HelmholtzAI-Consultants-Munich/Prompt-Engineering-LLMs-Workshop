@@ -3,7 +3,7 @@
 You can find Some useful information for the course here:
 - [Miro board](https://miro.com/app/board/uXjVINXFGTk=/)
 - [Introductory slides](https://docs.google.com/presentation/d/1ANKdB7gMcyBa6_mNEIAjNgFSEyRYn7lGQ9Gu6yU96WA/edit?usp=sharing)
-- [Blablador Slides](TODO)
+- [Blablador Slides](https://strube1.pages.jsc.fz-juelich.de/2025-03-course-hitec/)
 
 ## Prerequisites
 For the practical session, make sure you do the following:
